@@ -1,0 +1,190 @@
+[{
+	"taskId": 101,
+	"taskTitle": "Checklist Approved",
+	"taskType": "Date",
+	"duration": 0,
+	"userType": "USER-1",
+	"taskPendingFrom": 0
+}, {
+	"taskId": 102,
+	"taskTitle": "Shipping Bill",
+	"taskType": "Text",
+	"duration": 0,
+	"userType": "USER-1",
+	"taskPendingFrom": 0
+}, {
+	"taskId": 103,
+	"taskTitle": "Shipping Date",
+	"taskType": "Date",
+	"duration": 0,
+	"userType": "USER-1",
+	"taskPendingFrom": 0
+}, {
+	"taskId": 104,
+	"taskTitle": "Docs to Customs",
+	"taskType": "Date",
+	"duration": 2,
+	"userType": "USER-1",
+	"taskPendingFrom": 103
+}, {
+	"taskId": 105,
+	"taskTitle": "Cargo Received",
+	"taskType": "Date",
+	"duration": 3,
+	"userType": "USER-1",
+	"taskPendingFrom": 103
+}, {
+	"taskId": 106,
+	"taskTitle": "GSP/CO",
+	"taskType": "Date/Text",
+	"duration": 4,
+	"userType": "USER-2",
+	"taskPendingFrom": 103
+}, {
+	"taskId": 107,
+	"taskTitle": "Docs from Customs",
+	"taskType": "Date",
+	"duration": 3,
+	"userType": "USER-3",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 108,
+	"taskTitle": "S I Filling",
+	"taskType": "Date",
+	"duration": 3,
+	"userType": "USER-3",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 109,
+	"taskTitle": "Stuffing No.",
+	"taskType": "Text",
+	"duration": 5,
+	"userType": "USER-4",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 110,
+	"taskTitle": "Stuffing Date",
+	"taskType": "Date",
+	"duration": 5,
+	"userType": "USER-4",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 111,
+	"taskTitle": "Railing/VGM",
+	"taskType": "Date",
+	"duration": 2,
+	"userType": "USER-4",
+	"taskPendingFrom": 111
+}, {
+	"taskId": 112,
+	"taskTitle": "Planned Vessel No.",
+	"taskType": "Text",
+	"duration": 2,
+	"userType": "USER-4",
+	"taskPendingFrom": 111
+}, {
+	"taskId": 113,
+	"taskTitle": "Planned Vessel Date",
+	"taskType": "Date",
+	"duration": 2,
+	"userType": "USER-4",
+	"taskPendingFrom": 111
+}, {
+	"taskId": 114,
+	"taskTitle": "ETA Port",
+	"taskType": "Date",
+	"duration": 2,
+	"userType": "USER-4",
+	"taskPendingFrom": 111
+}, {
+	"taskId": 115,
+	"taskTitle": "Invoice",
+	"taskType": "Date/Text",
+	"duration": 7,
+	"userType": "USER-5",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 116,
+	"taskTitle": "Debit Note",
+	"taskType": "Date/Text",
+	"duration": 10,
+	"userType": "USER-6",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 117,
+	"taskTitle": "Measurement",
+	"taskType": "Text",
+	"duration": 10,
+	"userType": "USER-6",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 118,
+	"taskTitle": "Bill of Lading",
+	"taskType": "Date/Text",
+	"duration": 10,
+	"userType": "USER-6",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 119,
+	"taskTitle": "Dispatch",
+	"taskType": "Date/Text",
+	"duration": 11,
+	"userType": "USER-7",
+	"taskPendingFrom": 105
+}, {
+	"taskId": 120,
+	"taskTitle": "Arrival Indian Port",
+	"taskType": "Date",
+	"duration": 4,
+	"userType": "USER-8",
+	"taskPendingFrom": 112
+}, {
+	"taskId": 121,
+	"taskTitle": "Actual Sailing No.",
+	"taskType": "Text",
+	"duration": 2,
+	"userType": "USER-8",
+	"taskPendingFrom": 114
+}, {
+	"taskId": 122,
+	"taskTitle": "Actual Sailing Date",
+	"taskType": "Date",
+	"duration": 2,
+	"userType": "USER-8",
+	"taskPendingFrom": 114
+}, {
+	"taskId": 123,
+	"taskTitle": "ETA Warehouse",
+	"taskType": "Date",
+	"duration": 2,
+	"userType": "USER-8",
+	"taskPendingFrom": 114
+}, {
+	"taskId": 124,
+	"taskTitle": "Pre Alert",
+	"taskType": "Date/Text",
+	"duration": 5,
+	"userType": "USER-9",
+	"taskPendingFrom": 122
+}, {
+	"taskId": 125,
+	"taskTitle": "Invoice to Agent",
+	"taskType": "Date/Text",
+	"duration": 5,
+	"userType": "USER-9",
+	"taskPendingFrom": 124
+}, {
+	"taskId": 126,
+	"taskTitle": "ATA Port",
+	"taskType": "Date",
+	"duration": 2,
+	"userType": "USER-9",
+	"taskPendingFrom": 116
+}, {
+	"taskId": 127,
+	"taskTitle": "Delivered/Pick up",
+	"taskType": "Date",
+	"duration": 10,
+	"userType": "USER-9",
+	"taskPendingFrom": 125
+}]
